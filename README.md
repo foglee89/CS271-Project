@@ -1,7 +1,12 @@
 # CS271-Project
 Computer Arch. &amp; Assembly language - x86/IA-32
 
+Project involved designing, implementing, and calling low-level I/O procedures while utilizing macros in x86. Expanded description in provided prompt is provided below.
+
+
+
 **Program prompt:**
+
 Program Description
 
 Write and test a MASM program to perform the following tasks (check the Requirements section for specifics on program modularization):
